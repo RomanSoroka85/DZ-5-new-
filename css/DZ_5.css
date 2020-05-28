@@ -50,7 +50,7 @@
 }
 .slider-box {
   position: relative;
-  background-image: url(/img/slide.jpg);
+  background-image: url(../img/slide.jpg);
   width: 100%;
   background-repeat: no-repeat;
 
@@ -218,7 +218,7 @@ p.price {
   width: 172px;
 }
 .serdce {
-  background-image: url(/img/icons/serdce.png);
+  background-image: url(../img/icons/serdce.png);
   background-repeat: no-repeat;
   background-position: center;
   width: 50px;
@@ -233,7 +233,7 @@ p.price {
   border-color: #1abc9c;
 }
 .strelki {
-  background-image: url(/img/icons/strelki.png);
+  background-image: url(../img/icons/strelki.png);
   background-repeat: no-repeat;
   background-position: center;
   width: 50px;
@@ -248,7 +248,7 @@ p.price {
   border-color: #1abc9c;
 }
 .clock {
-  background-image: url(/img/icons/clock.png);
+  background-image: url(../img/icons/clock.png);
   background-repeat: no-repeat;
   background-position: center;
   width: 50px;
@@ -279,7 +279,7 @@ p.price {
 
 .corzina:before {
   content: "";
-  background-image: url(/img/icons/corzina.png);
+  background-image: url(../img/icons/corzina.png);
   background-size: 29px 29px;
   background-repeat: no-repeat;
   top: 13px;
