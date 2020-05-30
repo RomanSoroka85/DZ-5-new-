@@ -81,7 +81,7 @@
   width: 102px;
   border: 0px;
   height: 102px;
-  background-image: url(./img/right1.png);
+  background-image: url(../img/right1.png);
   background-color: #509d8b;
   transform: scale(-1);
   background-position: center;
@@ -92,7 +92,7 @@
 .button-right {
   width: 102px;
   height: 102px;
-  background-image: url(./img/right1.png);
+  background-image: url(../img/right1.png);
   border: 0px;
   background-color: #509d8b;
   background-position: center;
