@@ -193,15 +193,22 @@ p.price {
 }
 
 .product-item:hover .card {
-  border-width: 10px;
-  border-color: rgb(255, 255, 255);
-  border-style: solid;
-  background-color: rgba(0, 0, 0, 0.549);
+  background-color: rgba(0, 0, 0, 0.65);
   position: absolute;
+  width: 235px;
+  height: 265px;
+  top: 10px;
+  left: 10px;
+}
+
+.product-item:hover .fon {
+  background-color: rgba(255, 255, 255, 0.15);
   width: 255px;
   height: 285px;
-  top: 0;
+  top: -10px;
+  position: absolute;
 }
+
 .product-item:hover .button {
   display: block;
 }
@@ -273,9 +280,9 @@ p.price {
   font-size: 14px;
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
-  width: 164px;
+  width: 172px;
   height: 50px;
-  padding: 15px 15px 30px 50px;
+  padding: 15px 15px 30px 55px;
   position: relative;
   cursor: pointer;
 }
